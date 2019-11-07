@@ -1,3 +1,13 @@
+## 4.12.1
+* Hide `[[StableObjectId]]` variable - [Microsoft/vscode-chrome-debug-core#396](https://github.com/microsoft/vscode-chrome-debug-core/issues/396)
+* Hide `breakpointLocations` errors from console
+
+## 4.12.0
+* Show all possible breakpoint locations - [#934](https://github.com/microsoft/vscode-chrome-debug/issues/934)
+
+## 4.11.7
+* Support clearing the current color in console.log color format args - [microsoft/vscode#76550](https://github.com/microsoft/vscode#76550)
+
 ## 4.11.5
 * Fix remote debugging issue - [#867](https://github.com/microsoft/vscode-chrome-debug/issues/867)
 
